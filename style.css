@@ -1,6 +1,6 @@
 body,
 html {
-  width: 125%;
+  width: 100%;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
   background: url(il.jpg) no-repeat center fixed;
@@ -9,6 +9,7 @@ html {
 }
 
 h1 {
+  text-align: center;
   font-size: 4rem;
   color: #080808;
 }
